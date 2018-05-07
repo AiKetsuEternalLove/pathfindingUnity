@@ -1,0 +1,107 @@
+2018.1.0f2:3.3.0.2
+StandaloneWindows
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AccessibilityModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AnimationModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AssetBundleModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AudioModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.BaselibModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ClothModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CloudWebServicesModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterInputModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CoreModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CrashReportingModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.DirectorModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.FacebookModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.GameCenterModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.GridModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.HotReloadModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.IMGUIModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ImageConversionModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.InputModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.PhysicsModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.Physics2DModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SubstanceModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TLSModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TextRenderingModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TilemapModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TimelineModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UIModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UIElementsModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UNETModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UmbraModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityConnectModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VRModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VehiclesModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VideoModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.WebModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.WindModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/UnityEditor.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\Managed/Unity.Locator.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+C:/Users/jinxg/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll
+C:/Users/jinxg/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.1/UnityEngine.Purchasing.dll
+C:/Users/jinxg/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\mscorlib.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Core.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UIAutomation/Editor/UnityEditor.UIAutomation.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Z:/Eternal-Program Files (x86)/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Users/jinxg/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.7/Editor/UnityEditor.Advertisements.dll
+C:/Users/jinxg/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll
+C:/Users/jinxg/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.1/Editor/UnityEditor.Purchasing.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Core.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Runtime.Serialization.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.Linq.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.Lang.dll
+Z:\Eternal-Program Files (x86)\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\Boo.Lang.dll
